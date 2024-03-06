@@ -1,4 +1,4 @@
-# Sign up form built with FormFusion
+# Basic Reactstrap usage with FormFusion
 
 This repository contains a simple example of using a Reactstrap component with FormFusion [library](https://www.corelabui.com/).
 
